@@ -1,0 +1,3 @@
+C:/Users/пк/Desktop/lab-text/sln/CMakeFiles/lab-text.dir
+C:/Users/пк/Desktop/lab-text/sln/CMakeFiles/ALL_BUILD.dir
+C:/Users/пк/Desktop/lab-text/sln/CMakeFiles/ZERO_CHECK.dir
